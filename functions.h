@@ -1,1 +1,1 @@
-void solveNQueens(N); 
+void solveNQueens(int N); 
