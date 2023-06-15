@@ -2,9 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
-    int N;
-    cout << "Enter the value of N: ";
-    cin >> N;
+    int N=8;
 
     solveNQueens(N);
 
